@@ -65,6 +65,7 @@ function Menu() {
                     <Link to="/produtos"><li>Produtos</li></Link>
                     <SubMenu>
                         <Link to='/novo-produto'><li>Cadastrar produto</li></Link>
+                        <Link to='/editar-produto'><li>Editar produto</li></Link>
                     </SubMenu>
                 </ListaDoMenu>
             </DivMenu>

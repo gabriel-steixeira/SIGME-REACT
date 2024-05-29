@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Home from './components/Home.jsx'
 import Produtos from './components/Produtos.jsx'
 import NovoProduto from './components/NovoProduto.jsx'
+import EditarProduto from './components/EditarProduto.jsx'
 import Menu from './components/Menu.jsx'
 import './App.css'
 
@@ -14,7 +15,7 @@ function App() {
           <Route path="/" element={<Home />}></Route>
           <Route path="/produtos" element={<Produtos />}></Route>
           <Route path="/novo-produto" element={<NovoProduto />}></Route>
-        </Routes>
+          <Route path="/editar-produto" element={<EditarProduto/>} /></Routes>
       </BrowserRouter>
     </>
   )
