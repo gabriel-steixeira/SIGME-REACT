@@ -62,7 +62,7 @@ export default function Produtos() {
                     </tr>
                     <tr>
                         <td>Pasta de dente</td>
-                        <td>Colgato</td>
+                        <td>Colgate</td>
                         <td>Higiene</td>
                         <td>50</td>
                         <td>200</td>
@@ -71,7 +71,7 @@ export default function Produtos() {
                         {/* <td>Lançamento 2024</td>
                         <td>20/04/2024</td>
                         <td>20/05/2024</td> */}
-                        <td>Colgato Ltda.</td>
+                        <td>Colgate Ltda.</td>
                     </tr>
                 </table>
             </DataTable>
