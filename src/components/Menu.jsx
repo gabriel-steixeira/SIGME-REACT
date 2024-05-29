@@ -66,6 +66,7 @@ function Menu() {
                     <SubMenu>
                         <Link to='/novo-produto'><li>Cadastrar produto</li></Link>
                         <Link to='/editar-produto'><li>Editar produto</li></Link>
+                        <Link to='/excluir-produto'><li>Excluir produto</li></Link>
                     </SubMenu>
                 </ListaDoMenu>
             </DivMenu>
@@ -73,4 +74,4 @@ function Menu() {
     )
 }
 
-export default Menu
+export default Menu;
