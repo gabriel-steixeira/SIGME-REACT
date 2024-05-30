@@ -76,7 +76,7 @@ export default function Produtos() {
                 </table>
             </DataTable>
 
-            <AddButton type="button"><Link to="/novo-produto" style={{color: 'white'}}>+</Link></AddButton>
+            {/* <AddButton type="button"><Link to="/novo-produto" style={{color: 'white'}}>+</Link></AddButton> */}
         </>
     )
 }
