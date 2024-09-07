@@ -1,2 +1,5 @@
 # SIGME-REACT
-web application to sigme
+
+# Gerenciamento de Clientes e Fornecedores
+
+Este projeto é uma aplicação React para gerenciar clientes, fornecedores e produtos. Permite adicionar, editar e excluir informações sobre clientes, fornecedores e produtos de forma eficiente.
